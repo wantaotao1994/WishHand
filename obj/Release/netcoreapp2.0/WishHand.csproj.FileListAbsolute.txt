@@ -1,0 +1,22 @@
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.deps.json
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.runtimeconfig.json
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.runtimeconfig.dev.json
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.dll
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.pdb
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.csproj.CoreCompileInputs.cache
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.AssemblyInfoInputs.cache
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.AssemblyInfo.cs
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.dll
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.pdb
+d:\users\sss\documents\visual studio 2017\Projects\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.csprojResolveAssemblyReference.cache
+F:\WishHand\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.deps.json
+F:\WishHand\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.runtimeconfig.json
+F:\WishHand\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.runtimeconfig.dev.json
+F:\WishHand\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.dll
+F:\WishHand\WishHand\WishHand\bin\Release\netcoreapp2.0\WishHand.pdb
+F:\WishHand\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.csprojResolveAssemblyReference.cache
+F:\WishHand\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.csproj.CoreCompileInputs.cache
+F:\WishHand\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.AssemblyInfoInputs.cache
+F:\WishHand\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.AssemblyInfo.cs
+F:\WishHand\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.dll
+F:\WishHand\WishHand\WishHand\obj\Release\netcoreapp2.0\WishHand.pdb

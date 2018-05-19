@@ -1,0 +1,12 @@
+F:\WishHand\WishHand\WishHand
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WishHand
+--content-root=F:\WishHand\WishHand\WishHand
+--file=F:\WishHand\WishHand\WishHand\Views\Home\About.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\Home\Contact.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\Home\Index.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\Shared\Error.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\Shared\_Layout.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\_ViewImports.cshtml
+--file=F:\WishHand\WishHand\WishHand\Views\_ViewStart.cshtml

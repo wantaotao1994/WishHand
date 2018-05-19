@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">google 翻译助手</div>
+
+    <div class="panel-body">
+        <form enctype="multipart/form-data" action="/home/TranslateExcelAsync" method="post">
+            <div class="form-group">
+               
+               <input class="btn" name="file" id="file"   type="file" />
+
+
+            </div>
+
+            <div class="form-group">
+                西班牙语:<input type="checkbox" /> 德语:<input type="checkbox" /> 法语:<input type="checkbox" />
+            </div>
+            <input class="btn btn-info" type="submit" />
+        </form>
+    </div>
+
+
+</div>
+<script>
+    $(function () {
+        $("#file-btn").click(function () { 
+
+            $("#file").click();
+
+        });
+
+    })
+
+</script>
